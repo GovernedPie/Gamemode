@@ -1,0 +1,11 @@
+name: Gamemode
+author: GovernedPie
+api: 3.0
+version: 1.0.0
+main: game\main
+
+commands:
+  gmc:
+    description: Use /gmc to change to creative
+  gms:
+    description: Use /gms to change to survival
